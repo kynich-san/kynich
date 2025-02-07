@@ -1,0 +1,2 @@
+# kynich
+kynich blog 
